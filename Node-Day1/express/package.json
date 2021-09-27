@@ -1,0 +1,24 @@
+{
+  "name": "node-day1",
+  "version": "1.0.0",
+  "description": "All code files from first day learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amnajaved02/Node.js.git"
+  },
+  "author": "Amna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amnajaved02/Node.js/issues"
+  },
+  "homepage": "https://github.com/Amnajaved02/Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
